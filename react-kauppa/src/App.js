@@ -34,6 +34,9 @@ function NavigationBar() {
           <a class="nav-link" href="#">Tuoteryhmät</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="#">Kampanjat</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#">Yhteystiedot</a>
         </li>
         <li class="nav-item">
