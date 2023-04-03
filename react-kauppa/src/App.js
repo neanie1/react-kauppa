@@ -7,16 +7,6 @@ import Tuoteryhmat from './Tuoteryhmat';
 import Kampanjat from './Kampanjat';
 import Yhteystiedot from './Yhteystiedot';
 
-
-
-
-function Etusivu() {
-  return (
-    <div>
-      </div>
-  );
-}
-
 function Tuoteryhmat() {
   return (
     <div id='tuoteryhma'>
